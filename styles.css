@@ -144,6 +144,9 @@ a:active {
 		font-size:19px;
 		margin: 1em;
 	}
+	.text {
+		column-count: 1;
+	}
 }
 
 /* Tablet Styles */
